@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[@ng-class='btnClass1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button ]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@ng-class='btnClass1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@ng-click='openAccount()']]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> id: currency]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[contains(text(),'Process')]]]]>
+    </line>
+    <line>
+      <![CDATA[Getting account created successfully message Account created successfully with account Number :1016]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on ok on popup ]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-class='btnClass1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-click='openAccount()']]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: currency]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Process')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on ok on popup ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-click='customer()']]]]>
+    </line>
+    <line>
+      <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //div[@class='borderM box padT20 ng-scope']//button[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter amount 100 to amount field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[text()='Deposit']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting success message [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //span[contains(text(),'Deposit Successful')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-class='btnClass1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-click='openAccount()']]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: currency]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Process')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on ok on popup ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-click='customer()']]]]>
+    </line>
+    <line>
+      <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting your name message [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //label[contains(text(),'Your Name :')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-class='btnClass1']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='First Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='Last Name']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='Post Code']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add customer Button ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='openAccount()']]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: currency]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Process')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on ok on popup ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Home')]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='customer()']]]]>
+    </line>
+    <line>
+      <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: userSelect]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@type='submit']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //div[@class='borderM box padT20 ng-scope']//button[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter amount 100 to amount field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[text()='Deposit']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on withdrawal Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='withdrawl()']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter amount 50 to amount field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on withdraw Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[text()='Withdraw']]]]>
+    </line>
+    <line>
+      <![CDATA[Getting success message [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //span[contains(text(),'Transaction successful')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression suite" duration-ms="53789" started-at="2022-12-13T20:58:46 GMT" finished-at="2022-12-13T20:59:39 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="BankTest.bankManagerShouldAddCustomerSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldAddCustomerSuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+        <method signature="BankTest.bankManagerShouldOpenAccountSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldOpenAccountSuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+        <method signature="BankTest.customerShouldDepositMoneySuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldDepositMoneySuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+        <method signature="BankTest.customerShouldLoginAndLogoutSuceessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldLoginAndLogoutSuceessfully" class="com.xyz.bank.testsuite.BankTest"/>
+        <method signature="BankTest.customerShouldWithdrawMoneySuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldWithdrawMoneySuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="BankTest.bankManagerShouldOpenAccountSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldOpenAccountSuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="BankTest.bankManagerShouldAddCustomerSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldAddCustomerSuccessfully" class="com.xyz.bank.testsuite.BankTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Regression Test" duration-ms="53789" started-at="2022-12-13T20:58:46 GMT" finished-at="2022-12-13T20:59:39 GMT">
+      <class name="com.xyz.bank.testsuite.BankTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="setUp" is-config="true" duration-ms="3626" started-at="2022-12-13T20:58:46 GMT" finished-at="2022-12-13T20:58:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="inIt" is-config="true" duration-ms="36" started-at="2022-12-13T20:58:50 GMT" finished-at="2022-12-13T20:58:50 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="bankManagerShouldAddCustomerSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldAddCustomerSuccessfully" duration-ms="1619" started-at="2022-12-13T20:58:50 GMT" finished-at="2022-12-13T20:58:51 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[@ng-class='btnClass1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (1745c66b3e8a0106aa3304222ab325e8)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button ]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_13_20_58_52_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldAddCustomerSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="tearDown" is-config="true" duration-ms="701" started-at="2022-12-13T20:58:52 GMT" finished-at="2022-12-13T20:58:53 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="setUp" is-config="true" duration-ms="2071" started-at="2022-12-13T20:58:53 GMT" finished-at="2022-12-13T20:58:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T20:58:55 GMT" finished-at="2022-12-13T20:58:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="bankManagerShouldOpenAccountSuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="bankManagerShouldOpenAccountSuccessfully" duration-ms="4063" started-at="2022-12-13T20:58:55 GMT" finished-at="2022-12-13T20:58:59 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@ng-class='btnClass1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[@ng-click='openAccount()']]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> id: currency]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (5eee247f9ff4e1bada01c268a27ef285)] -> xpath: //button[contains(text(),'Process')]]]]>
+            </line>
+            <line>
+              <![CDATA[Getting account created successfully message Account created successfully with account Number :1016]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on ok on popup ]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_13_20_59_00_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldOpenAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="tearDown" is-config="true" duration-ms="648" started-at="2022-12-13T20:59:00 GMT" finished-at="2022-12-13T20:59:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="setUp" is-config="true" duration-ms="2051" started-at="2022-12-13T20:59:01 GMT" finished-at="2022-12-13T20:59:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T20:59:03 GMT" finished-at="2022-12-13T20:59:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="customerShouldDepositMoneySuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldDepositMoneySuccessfully" duration-ms="5432" started-at="2022-12-13T20:59:03 GMT" finished-at="2022-12-13T20:59:08 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-class='btnClass1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-click='openAccount()']]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: currency]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Process')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on ok on popup ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@ng-click='customer()']]]]>
+            </line>
+            <line>
+              <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //div[@class='borderM box padT20 ng-scope']//button[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter amount 100 to amount field [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //button[text()='Deposit']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting success message [[ChromeDriver: chrome on WINDOWS (c18b59cffecb413c0f654cb55de90f8f)] -> xpath: //span[contains(text(),'Deposit Successful')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_13_20_59_09_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldDepositMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="tearDown" is-config="true" duration-ms="650" started-at="2022-12-13T20:59:09 GMT" finished-at="2022-12-13T20:59:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="setUp" is-config="true" duration-ms="12087" started-at="2022-12-13T20:59:09 GMT" finished-at="2022-12-13T20:59:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T20:59:22 GMT" finished-at="2022-12-13T20:59:22 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="customerShouldLoginAndLogoutSuceessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldLoginAndLogoutSuceessfully" duration-ms="4136" started-at="2022-12-13T20:59:22 GMT" finished-at="2022-12-13T20:59:26 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-class='btnClass1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-click='openAccount()']]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: currency]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Process')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on ok on popup ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@ng-click='customer()']]]]>
+            </line>
+            <line>
+              <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting your name message [[ChromeDriver: chrome on WINDOWS (6e50e638b9bb1799e2885dbdc65090bd)] -> xpath: //label[contains(text(),'Your Name :')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_13_20_59_26_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldLoginAndLogoutSuceessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="tearDown" is-config="true" duration-ms="678" started-at="2022-12-13T20:59:26 GMT" finished-at="2022-12-13T20:59:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="setUp" is-config="true" duration-ms="2236" started-at="2022-12-13T20:59:27 GMT" finished-at="2022-12-13T20:59:29 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T20:59:29 GMT" finished-at="2022-12-13T20:59:29 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="customerShouldWithdrawMoneySuccessfully()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="customerShouldWithdrawMoneySuccessfully" duration-ms="8632" started-at="2022-12-13T20:59:29 GMT" finished-at="2022-12-13T20:59:38 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on bank manager login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Bank Manager Login')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-class='btnClass1']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name Prime to first name field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='First Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name Tester to last name field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='Last Name']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode E89899 to postcode field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //input[@placeholder='Post Code']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting customer added popup message Customer added successfully with customer id :6]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add customer Button ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on open account Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='openAccount()']]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Prime Testerfrom [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[selecting Poundfrom [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: currency]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on process Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Process')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on ok on popup ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Home Page Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[contains(text(),'Home')]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on customer login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='customer()']]]]>
+            </line>
+            <line>
+              <![CDATA[Select your name Prime Tester from [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> id: userSelect]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on login Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@type='submit']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //div[@class='borderM box padT20 ng-scope']//button[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter amount 100 to amount field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on deposit Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[text()='Deposit']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on withdrawal Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[@ng-click='withdrawl()']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter amount 50 to amount field [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //body/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/form[1]/div[1]/input[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on withdraw Button [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //button[text()='Withdraw']]]]>
+            </line>
+            <line>
+              <![CDATA[Getting success message [[ChromeDriver: chrome on WINDOWS (a2b335598c6170fba088b0fe0f7bc110)] -> xpath: //span[contains(text(),'Transaction successful')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg><img src=C:\Users\krupa\IdeaProjects\com-xyz-bank-pagefactorymodel/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_13_20_59_39_GMT_2022.jpg height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldWithdrawMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xyz.bank.testsuite.BankTest@149494d8]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-12-13T20:59:39 GMT" finished-at="2022-12-13T20:59:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.bank.testsuite.BankTest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression suite -->
+</testng-results>
